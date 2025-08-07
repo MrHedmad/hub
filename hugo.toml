@@ -1,4 +1,4 @@
-baseURL = "https://hedmad.eu/"
+baseURL = "hedmad.eu/"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "Luca's Hub"
@@ -24,3 +24,7 @@ disableKinds = ["taxonomy", "term"]
   anchor = "Center"
   quality = 90
   resampleFilter = "lanczos"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
