@@ -1,0 +1,26 @@
+baseURL = "https://hedmad.eu/"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Luca's Hub"
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[params.author]
+  name = "Luca Visentin"
+  headline = "Test string. Remember to change."
+  image = "author.jpg"
+  links = [
+    { user = { href = "about/", text = "About me", target = "_self"} },
+    { blog = { href = "https://blog.hedmad.eu/", text = "Blog"} },
+    { osc = { href = "http://osc.to/", text = "OSC Torino"} },
+    { mastodon = "https://genomic.social/@MrHedmad" },
+    { github = "https://github.com/MrHedmad/" },
+    { email = { href = "mailto:contact@hedmad.eu", text = "Email me"} },
+    { more = {href = "more/", text = "More links", target = "_self"}}
+  ]
+
+[imaging]
+  anchor = "Center"
+  quality = 90
+  resampleFilter = "lanczos"
