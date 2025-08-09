@@ -18,14 +18,13 @@ Some examples of my efforts in this regard include:
 - I created [Kerblam!](https://kerblam.dev/) to package data science projects of any size for reproducibility's sake;
 - All my past and future work is published as soon as it is created, most commonly in my [Github page](https://github.com/MrHedmad) or my current laboratory's Github page ([TCP-Lab](https://github.com/TCP-Lab)).
 
-
 ## Get in touch
 
 To contact me, send me an email to `contact(at)hedmad.eu`, or at my current work email `luca.visentin(at)unito.it`.
 
 ## What I can do
 
-I'm adept at working with data, including its storage, formatting, statistical analysis, documentation and preservation.
+I'm adept at working with data, including its storage, formatting, statistical analysis, modelling, documentation and preservation.
 I'm especially skilled in working with genomic data, including RNA-Seq and mutational analysis.
 
 I'm an expert library and tool programmer in R, Python and Rust, with a propension for functional programming.
@@ -49,8 +48,8 @@ My Curriculum Vitae is created with custom Typst code, for example.
 ## Academic achievements, degrees and scientific publications
 
 I have a Bachelor's in Biology and a Masters' in Cellular and Molecular Biology.
-I'm currently a PhD candidate in Cellular and Molecular Biology, and I'm planning to obtain my doctorate by the end of 2025.
+I'm currently a PhD candidate in Complex Systems for quantitative biomedicine, and I'm planning to obtain my doctorate by the end of 2025.
 
 I have obtained the certification of Data Steward by attending the [CUAP Data Stewardship course](https://hpc4ai.unito.it/cuap-data-steward/) held by the University of Torino in 2024.
 
-You can find the full list of my degrees, qualifications and scientific publications with my OrcID: [0000-0003-2568-5694](https://orcid.org/0000-0003-2568-5694).
+You can find the full list of my degrees, qualifications and scientific publications with my OrcID: [0000-0003-2568-5694](https:/, /0000-0003-2568-5694).
