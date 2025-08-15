@@ -52,4 +52,4 @@ I'm currently a PhD candidate in Complex Systems for quantitative biomedicine, a
 
 I have obtained the certification of Data Steward by attending the [CUAP Data Stewardship course](https://hpc4ai.unito.it/cuap-data-steward/) held by the University of Torino in 2024.
 
-You can find the full list of my degrees, qualifications and scientific publications with my OrcID: [0000-0003-2568-5694](https:/, /0000-0003-2568-5694).
+You can find the full list of my degrees, qualifications and scientific publications with my OrcID: [0000-0003-2568-5694](https://orcid.org/0000-0003-2568-5694).
