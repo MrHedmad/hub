@@ -16,7 +16,7 @@ Some examples of my efforts in this regard include:
 - I created and am the chairman of [the Open Science Community Torino](http://osc.to/), a community devoted to increasing the adoption of Open Science practices in an around Turin;
 - I maintain the [Data Stewardship Knowledgebase](http://dsk.hedmad.eu/), a repository of information and resources for upcoming and experienced data stewards;
 - I created [Kerblam!](https://kerblam.dev/) to package data science projects of any size for reproducibility's sake;
-- All my past and future work is published as soon as it is created, most commonly in my [Github page](https://github.com/MrHedmad) or my current laboratory's Github page ([TCP-Lab](https://github.com/TCP-Lab)).
+- All my work is published as soon as it is created, most commonly in my [Github page](https://github.com/MrHedmad) or my current laboratory's Github page ([TCP-Lab](https://github.com/TCP-Lab)).
 
 ## Get in touch
 
@@ -31,11 +31,14 @@ I'm an expert library and tool programmer in R, Python and Rust, with a propensi
 I've coded [small, reusable libraries](https://github.com/MrHedmad/bonsai), [project management tools](https://kerblam.dev), as well as numerous data [wrangling](https://github.com/MrHedmad/metasplit), [retrieval](https://github.com/TCP-Lab/MTP-DB), [conversion](https://github.com/MrHedmad/panid) and [analysis](https://github.com/TCP-Lab/bioTEA) tools.
 I'm familiar with most mainstream version control tools (e.g. Git), as well as collaboration platforms (e.g. GitHub, Trello, etc...).
 
-I'm not a web developer, but I've created this website as well as others ([kerblam.dev](https://kerblam.dev), [the OSCT's homepage](http://osc.to/) and [handbook](https://handbook.osc.to), [the DSK](https://dsk.hedmad.eu/) and [my blog](https://blog.hedmad.eu)) and know how to use static site generators like [hugo](https://gohugo.io/) as well as how to write basic HTML and CSS.
-
 I routinely work with databases, and know my way around SQL.
 I've created a [database for cell membrane transporters](https://github.com/TCP-Lab/MTP-DB) which can regenerate itself by pulling data from other databases and parse it with heuristics.
 This also means I'm adept at working with APIs.
+
+One of the largest projects I've spearheaded is the [transportome profiler](https://github.com/TCP-Lab/transportome_profiler), where I've investigated the pattern of expression of transporters across most cancer types.
+You can also find it in [my OrcID](https://orcid.org/0000-0003-2568-5694) profile.
+
+I'm not a web developer, but I've created this website as well as others ([kerblam.dev](https://kerblam.dev), [the OSCT's homepage](http://osc.to/) and [handbook](https://handbook.osc.to), [the DSK](https://dsk.hedmad.eu/) and [my blog](https://blog.hedmad.eu)) and know how to use static site generators like [hugo](https://gohugo.io/) as well as how to write basic HTML and CSS.
 
 I can manage and moderate online and offline communities and have done so in the past, a key example being the OSCT, its [Discord server](https://discord.gg/Sv9BCTsXDh) and the Turin Cell Physiology Lab's private Discord server.
 
@@ -53,3 +56,4 @@ I'm currently a PhD candidate in Complex Systems for quantitative biomedicine, a
 I have obtained the certification of Data Steward by attending the [CUAP Data Stewardship course](https://hpc4ai.unito.it/cuap-data-steward/) held by the University of Torino in 2024.
 
 You can find the full list of my degrees, qualifications and scientific publications with my OrcID: [0000-0003-2568-5694](https://orcid.org/0000-0003-2568-5694).
+I avoid copying them over here as they might get out-of-date.
