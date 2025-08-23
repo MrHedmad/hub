@@ -48,6 +48,16 @@ I know how to use [LaTeX](https://www.latex-project.org/) as well as the more mo
 Find [an example here](https://github.com/OSCTorino/generate-certificates).
 My Curriculum Vitae is created with custom Typst code, for example.
 
+## What I'm interested in
+
+I'm deeply interested in how data shapes our lives.
+I feel that privacy and giving meninful choices to users regarding it is a must in the digital-first age we are living in.
+I am generally against AI being baked in in every corner of the net, given its current limitations and environmental costs.
+
+I have a particular interest in productivity systems, like Bullet Journalling, Second brains and Zettelkasten. I think I read too many books about them.
+
+In my free time I like playing video- and board- games and reading. My favourite author is probably Agatha Christie.
+
 ## Academic achievements, degrees and scientific publications
 
 I have a Bachelor's in Biology and a Masters' in Cellular and Molecular Biology.
